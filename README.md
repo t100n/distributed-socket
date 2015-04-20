@@ -6,6 +6,8 @@ Install with:
 
     npm install lodash redis express socket.io socket.io-client
 
+Example of using the library:
+
 ```js
 	var distributedSocket = require('./lib/distributed-socket');
 	
